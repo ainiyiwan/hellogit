@@ -5,4 +5,5 @@ package com.zy.hellogit;
  */
 
 public class g {
+    private String g;
 }
